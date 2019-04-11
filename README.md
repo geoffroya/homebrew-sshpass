@@ -5,14 +5,8 @@ Homebrew maintainers [reject adding](https://github.com/Homebrew/homebrew/pull/1
 
 ## Install
 
-```
-brew install hudochenkov/sshpass/sshpass
-```
-
-Or `brew tap hudochenkov/sshpass` and then `brew install sshpass`.
-
-Or install via URL (which will not receive updates):
+Install via URL:
 
 ```
-brew install https://raw.githubusercontent.com/hudochenkov/homebrew-sshpass/master/sshpass.rb
+brew install https://github.com/geoffroya/homebrew-sshpass/raw/master/sshpass.rb
 ```
